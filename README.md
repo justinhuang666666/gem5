@@ -1,5 +1,6 @@
 # Integration of RISC-V Page Table Walk in gem5 SE Mode
 This branch enables the use of page table walk in SE mode (RISC-V ISA).
+The paper titled “Integration of RISC-V Page Table Walk in gem5 SE Mode” has been accepted in the proceedings of the Rapido’24 Workshop on Rapid Simulation and Performance Evaluation: Methods and Tools (HiPEAC 2024)[Paper](./Integration_of_RISC_V_Page_Table_Walk_in_gem5_SE_Mode.pdf)
 
 ## Differences
 All the differences, compared to gem5 v23.0.1.0, are shown in ```gem5.diff``` file.
